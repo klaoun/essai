@@ -1,6 +1,6 @@
-<img src="https://piwigo.org/plugins/piwigo-piwigodotorg/images/piwigo.org.svg" width="200" alt="Piwigo logo">
 
-Manage your photo library. Piwigo is open source photo gallery software for the web. Designed for organisations, teams and individuals.
+
+nage your photo library. Piwigo is open source photo gallery software for the web. Designed for organisations, teams and individuals.
 
 ![screenshot](https://piwigo.org/screenshots/github-screenshot-2.10.jpg)
 
